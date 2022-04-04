@@ -1,1 +1,2 @@
-tr 'd' 'c' | tr -d 'C'
+#!/bn/bash
+tr -d 'c' | tr -d 'C'
