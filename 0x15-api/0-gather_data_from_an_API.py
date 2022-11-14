@@ -57,4 +57,3 @@ if __name__ == "__main__":
           .format(name, completed, total_tasks))
     for task in completed_tasks:
         print("\t {}".format(task.get('title')))
-        
